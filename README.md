@@ -21,3 +21,10 @@ Los archivos de transformación son:
 - limpiar_datos.py
 - compra.py
 - analisis_datos.py
+
+Librerías
+- pandas
+- re
+- dateutil.parser
+- datetime
+- word2number
